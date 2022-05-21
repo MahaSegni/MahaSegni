@@ -55,7 +55,7 @@
 
 <br/>  
 <div align="center">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MahaSegni&column=8&margin-w=15&margin-h=15" alt="MahaSegni" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MahaSegni&column=7&margin-w=15&margin-h=15" alt="MahaSegni" /></a> </p>
 </div>
 
 
