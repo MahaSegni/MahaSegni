@@ -1,4 +1,4 @@
-### <div align="center"> Hi There 👋 <br> I'm Maha, a Web Developer Student 👨‍💻 </div>  
+### <div align="center"> Hi There 👋 <br> I'm Maha Segni, a Web Developer Student & Software Engineer 👨‍💻 </div>  
   
 
 <br/>  
