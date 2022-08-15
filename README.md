@@ -57,7 +57,7 @@
 
 <br/>
 <div align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=MahaSegni&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=MahaSegni&theme=flag-india&hide_border=true&date_format=j%20M%5B%20Y%5D">
 </div>
 <br/>
 <div align="center">
