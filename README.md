@@ -60,7 +60,9 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=MahaSegni">
 </div>
 <br/>
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahaSegni&layout=compact&theme=vision-friendly">
+</div>
 
 ## Connect with me  
 
