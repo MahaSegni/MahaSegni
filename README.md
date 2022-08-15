@@ -55,6 +55,12 @@
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MahaSegni&column=7&margin-w=15&margin-h=15" alt="MahaSegni" /></a> 
 </div>
 
+<br/>
+<div align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=MahaSegni">
+</div>
+<br/>
+
 
 ## Connect with me  
 
