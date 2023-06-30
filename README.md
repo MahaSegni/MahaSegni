@@ -1,9 +1,13 @@
-### <div align="center"> Hi There 👋 <br> 
-I'm Maha Segni, a passionate 𝐟𝐮𝐥𝐥 𝐬𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐚𝐧𝐝 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 with expertise in developing robust and scalable applications. I love diving into complex problems and crafting elegant solutions. Let's create something amazing together! 👨‍💻 </div>  
+### <div align="center"> Hi There, I'm Maha Segni !👋 <br>
+A passionate 𝐟𝐮𝐥𝐥 𝐬𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐚𝐧𝐝 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 with expertise in developing robust and scalable applications. I love diving into complex problems and crafting elegant solutions. Let's create something amazing together! 👨‍💻 </div>  
   
 
 <br/>  
-
+<ul>
+  <li> 🔭 I’m currently working on Personal Projects</li>
+  <li> 👯 I’m looking to collaborate on Open Source Projects </li>
+  <li> 💬 Ask me about Anything </li>
+</ul>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
