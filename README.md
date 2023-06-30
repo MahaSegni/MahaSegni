@@ -7,6 +7,7 @@ A passionate 𝐟𝐮𝐥𝐥 𝐬𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞
   <li> 🔭 I’m currently working on Personal Projects</li>
   <li> 👯 I’m looking to collaborate on Open Source Projects </li>
   <li> 💬 Ask me about Anything </li>
+  <li> 📫 How to reach me: mahasegni.inbox@gmail.com or mahasegni00@gmail.com</li>
 </ul>
 
 ## My Skill Set  
