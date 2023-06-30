@@ -1,4 +1,5 @@
-### <div align="center"> Hi There 👋 <br> I'm Maha Segni, a Web Developer Student & Software Engineer 👨‍💻 </div>  
+### <div align="center"> Hi There 👋 <br> 
+I'm Maha Segni, a passionate 𝐟𝐮𝐥𝐥 𝐬𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐚𝐧𝐝 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 with expertise in developing robust and scalable applications. I love diving into complex problems and crafting elegant solutions. Let's create something amazing together! 👨‍💻 </div>  
   
 
 <br/>  
