@@ -1,16 +1,21 @@
-### <div align="center"> Hi There, I'm Maha Segni !👋 <br>
-A passionate 𝐟𝐮𝐥𝐥 𝐬𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐚𝐧𝐝 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 with expertise in developing robust and scalable applications. I love diving into complex problems and crafting elegant solutions. Let's create something amazing together! 👨‍💻 </div>  
-  
+<div align="center">
+    <h1>👩‍💻 Bienvenue sur mon profil !</h1>
+    <p>Passionnée par le développement web, je suis une développeuse web enthousiaste avec une solide expérience dans la création d'applications web innovantes et performantes. Actuellement en quête de défis techniques stimulants et de collaborations enrichissantes.</p>
+</div>
+À propos de moi :
+💻 Expertise pratique en développement d'applications web.
+🌐 Passion pour l'apprentissage continu et l'exploration de nouvelles technologies.
+👥 Capacité à travailler efficacement en équipe et à collaborer sur des projets complexes.
+🎯 Engagement envers la qualité du code et la satisfaction du client.
+<div align="center">
+    <h2>🔍 À la recherche de nouveaux projets passionnants !</h2>
+    <p>Je suis ouverte aux collaborations sur des projets open source intéressants et je recherche des opportunités de travail avec des développeurs passionnés. N'hésitez pas à explorer mes repositories et à me contacter pour discuter de tout projet potentiel ou pour en savoir plus sur mes contributions passées.</p>
+</div>
+<div align="center">
+    <h2>🌟 Let's code together and build amazing things! 🚀</h2>
+</div>
 
-<br/>  
-<ul>
-  <li> 🔭 I’m currently working on Personal Projects</li>
-  <li> 👯 I’m looking to collaborate on Open Source Projects </li>
-  <li> 💬 Ask me about Anything </li>
-  <li> 📫 How to reach me: mahasegni.inbox@gmail.com or mahasegni00@gmail.com</li>
-</ul>
-
-## My Skill Set  
+## Mes compétences  
 <table><tr><td valign="top" width="33%">
 
 
@@ -70,7 +75,7 @@ A passionate 𝐟𝐮𝐥𝐥 𝐬𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞
 <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahaSegni&layout=compact&theme=vision-friendly"></a>
 </div>
 
-## Connect with me  
+## Connectez-vous avec moi 
 
 [![MAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahasegni.inbox@gmail.com)
 [![GITHUB](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahaSegni)
